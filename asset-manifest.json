@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini-app-wallet/static/css/main.e6c13ad2.css",
+    "main.js": "/mini-app-wallet/static/js/main.b5eed94a.js",
+    "static/js/787.94b43786.chunk.js": "/mini-app-wallet/static/js/787.94b43786.chunk.js",
+    "index.html": "/mini-app-wallet/index.html",
+    "main.e6c13ad2.css.map": "/mini-app-wallet/static/css/main.e6c13ad2.css.map",
+    "main.b5eed94a.js.map": "/mini-app-wallet/static/js/main.b5eed94a.js.map",
+    "787.94b43786.chunk.js.map": "/mini-app-wallet/static/js/787.94b43786.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b5eed94a.js"
+  ]
+}
