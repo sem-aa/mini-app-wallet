@@ -1,0 +1,37 @@
+.mainComponent {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.mainComponent p {
+  margin: 10px 0;
+}
+
+.mainComponent h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  color: #333;
+}
+
+.userInfo {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.userInfoName {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.userData {
+  font-size: 16px;
+  color: #333;
+}
